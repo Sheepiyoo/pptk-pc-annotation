@@ -22,19 +22,19 @@ python pptk_annotator.py data\2020-20-07-gazebo-data-0.npy    (On Windows)
   Ctrl + Click + Drag: Select a region of point clouds
   Right Click: Deselect all points
   
-(docs/instructions01.jpg)
+(imgs/instructions01.jpg)
 
 2) After selecting the required points, select the viewer window and press ENTER
 
-(docs/instructions02.jpg)
+(imgs/instructions02.jpg)
 
 3) Return to the command line. A prompt should appear asking for a label. Enter the appropriate label.
 
-(docs/instructions03.jpg)
+(imgs/instructions03.jpg)
 
   Notice that the labels for the hill have changed.
 
-(docs/instructions04.jpg)
+(imgs/instructions04.jpg)
 
 4) Repeats Step 1 to Step 3 until label annotation is complete.
 
