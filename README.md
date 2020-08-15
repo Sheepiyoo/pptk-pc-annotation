@@ -1,4 +1,4 @@
-# pptk-pc-annotation
+# Hacky Point Cloud Annotation with pptk
 Hacky annotation tool for point cloud using pptk.
 
 1) Clone the repository
@@ -22,19 +22,19 @@ python pptk_annotator.py data\2020-20-07-gazebo-data-0.npy    (On Windows)
   Ctrl + Click + Drag: Select a region of point clouds
   Right Click: Deselect all points
   
-[Viewer](imgs/instructions01.jpg)
+![Viewer](/imgs/instructions01.jpg)
 
 2) After selecting the required points, select the viewer window and press ENTER
 
-[Selecting points](imgs/instructions02.jpg)
+![Selecting points](/imgs/instructions02.jpg)
 
 3) Return to the command line. A prompt should appear asking for a label. Enter the appropriate label.
 
-[cmd line prompt](imgs/instructions03.jpg)
+![cmd line prompt](/imgs/instructions03.jpg)
 
   Notice that the labels for the hill have changed.
 
-[changed points](imgs/instructions04.jpg)
+![changed points](/imgs/instructions04.jpg)
 
 4) Repeats Step 1 to Step 3 until label annotation is complete.
 
