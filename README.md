@@ -15,12 +15,12 @@ python pptk_annotator.py data\2020-20-07-gazebo-data-0.npy    (On Windows)
 
 ## Annotation point cloud
 
-1) Navigate the point cloud viewer:\n
-  Click + Drag: Rotate\n
-  Scroll wheel: Zoom in and out\n
-  Shift + Click + Drag: Pan\n
-  Ctrl + Click + Drag: Select a region of point clouds\n
-  Right Click: Deselect all points\n
+1) Navigate the point cloud viewer:\
+  Click + Drag: Rotate\
+  Scroll wheel: Zoom in and out\
+  Shift + Click + Drag: Pan\
+  Ctrl + Click + Drag: Select a region of point clouds\
+  Right Click: Deselect all points\
   
 ![Viewer](/imgs/instruction01.JPG)
 
